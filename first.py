@@ -1,7 +1,7 @@
 x = 5
-y = "Hello World!"
+y = "Hello World! 😂"
 
 
 print(x)
-print(y)
+print(y + " Oy  😆" + " Oy  😂")
 
