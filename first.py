@@ -3,5 +3,6 @@ y = "Hello World! 😂"
 
 
 print(x)
-print(y + " Oy  😆" + " Oy  😂")
+print(y + " Oy  😆" + " kire  😂")
 
+print ("*" * 10);
