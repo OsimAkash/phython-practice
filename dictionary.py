@@ -1,4 +1,5 @@
 
 data = {'Phython', 'Java', 'Kotlin','C','C++'}
-# data.remove('Kotlin')
+data.remove('Kotlin')
 print(data)
+
